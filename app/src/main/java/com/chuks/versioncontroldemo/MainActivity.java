@@ -11,5 +11,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
         String name = "Chuks";
+
+        String otherName = "Kalvin";
     }
 }
